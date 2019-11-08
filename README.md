@@ -14,7 +14,7 @@ Front-end files are inside `/src` and the server files are inside `/server` fold
 #### Install the dependencies
 
 ```shell
-npm i
+npm install
 ```
 
 #### Start the application
